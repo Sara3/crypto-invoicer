@@ -1,6 +1,7 @@
 # crypto-invoicer
 
 crypto-invoicer is a personal web portal for invoicing clients with Bitcoin.
+This is a new copy
 
 It allows you to:
 
